@@ -1,10 +1,20 @@
-### Hi, I'm Miguel 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F4E8C,100:2F81F7&height=200&section=header&text=Hi,%20I'm%20Miguel%20%F0%9F%91%8B&fontColor=FFFFFF&fontSize=46&fontAlignY=38&animation=fadeIn&desc=Data%20Systems%20Engineering%20%C2%B7%20UPM%20Madrid&descSize=16&descAlignY=58" width="100%" alt="Hi, I'm Miguel"/>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=2F81F7&vCenter=true&width=520&lines=Data+Systems+Engineering+%40+UPM;Streaming+pipelines+with+Kafka+%2B+Spark;AI+agents+that+ship;Hackathon+winner+%F0%9F%8F%86)](https://github.com/Mveradc)
+<p align="center">
+  <a href="https://github.com/Mveradc">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=560&height=40&lines=Streaming+pipelines+with+Kafka+%2B+Spark;AI+agents+that+actually+ship;Computer+vision+%2B+LLMs+for+engineering;Hackathon+winner+%F0%9F%8F%86" alt="Typing SVG"/>
+  </a>
+</p>
 
-Data Systems Engineering student at UPM (Madrid). I build data pipelines, ML tooling and AI agents, mostly in Python.
+<p align="center">
+  I build data pipelines, ML tooling and AI agents, mostly in Python.
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_LINKEDIN)
+<p align="center">
+  <a href="https://www.linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
 ---
 
@@ -43,3 +53,5 @@ Data Systems Engineering student at UPM (Madrid). I build data pipelines, ML too
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mveradc/Mveradc/output/github-contribution-grid-snake-dark.svg" />
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/Mveradc/Mveradc/output/github-contribution-grid-snake.svg" />
 </picture>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,50:1F4E8C,100:0D1117&height=100&section=footer" width="100%" alt=""/>
