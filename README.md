@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Mveradc">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=560&height=40&lines=Streaming+pipelines+with+Kafka+%2B+Spark;AI+agents+that+actually+ship;Computer+vision+%2B+LLMs+for+engineering;Hackathon+winner+%F0%9F%8F%86" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=560&height=20&lines=Streaming+pipelines+with+Kafka+%2B+Spark;AI+agents+that+actually+ship;Computer+vision+%2B+LLMs+for+engineering;Hackathon+winner+%F0%9F%8F%86" alt="Typing SVG"/>
   </a>
 </p>
 
