@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F4E8C,100:2F81F7&height=200&section=header&text=Hi,%20I'm%20Miguel%20%F0%9F%91%8B&fontColor=FFFFFF&fontSize=46&fontAlignY=38&animation=fadeIn&desc=Data%20Systems%20Engineering%20%C2%B7%20UPM%20Madrid&descSize=16&descAlignY=58" width="100%" alt="Hi, I'm Miguel"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,100:2F81F7&height=220&text=Miguel%20Vera&fontColor=FFFFFF&fontSize=60&animation=twinkling&desc=Data%20Systems%20Engineering%20%C2%B7%20UPM&descAlignY=65" width="100%" alt="Miguel"/>
 </p>
 
 <p align="center">
