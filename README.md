@@ -24,7 +24,7 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**Albertitos**](https://github.com/javiersaguar/HS-Maisa) | Accounts-payable decision engine for 540 bank invoices: the LLM extracts facts, versioned rules decide PAY / DON'T PAY / ESCALATE. I owned the data contracts, pipeline and lineage | `Python` `Pydantic` `SQLite` `pytest` |
+| [**Albertitos**](https://github.com/javiersaguar/AlbertitosAI-DecisionEngine) | Accounts-payable decision engine for 540 bank invoices: the LLM extracts facts, versioned rules decide PAY / DON'T PAY / ESCALATE. I owned the data contracts, pipeline and lineage | `Python` `Pydantic` `SQLite` `pytest` |
 | [**Flight delay prediction on GKE**](https://github.com/Mveradc/flight_delay_prediction_on_gke) | Real-time flight delay prediction on Kubernetes: Kafka, Spark Streaming, Iceberg lakehouse on MinIO, MLflow tracking and Airflow orchestration | `Kafka` `Spark` `Airflow` `MLflow` `GKE` |
 | [**Data lakehouse with lifecycle management**](https://github.com/gonzamargal-sketch/PIDS1-2) | Hot/cold data platform: PostgreSQL hot tier, Iceberg cold tier, Airflow archiving and a FastAPI query router | `PostgreSQL` `Kafka` `Airflow` `Iceberg` `FastAPI` |
 | [**PipeDream**](https://github.com/Mveradc/PipeDream) 🏆 | AI validator for engineering P&ID drawings: detects every marked change between two PDF versions and audits it with a vision model | `FastAPI` `OpenCV` `Azure OpenAI` `React` |
