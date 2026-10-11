@@ -1,16 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,100:2F81F7&height=220&text=Miguel%20Vera&fontColor=FFFFFF&fontSize=60&fontAlignY=42&animation=twinkling&desc=Data%20Systems%20Engineering%20%C2%B7%20UPM&descAlignY=72" width="100%" alt="Miguel Vera"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Mveradc">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=560&height=40&lines=Data+pipelines+with+Kafka+and+Airflow;Python+backends+with+FastAPI;ML+and+inference+for+drone+traffic;2x+hackathon+winner" alt="Typing SVG"/>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg"/>
+    <img src="assets/header-dark.svg" width="100%" alt="Miguel Vera. Data Systems Engineering at ETSIT-UPM, research at GPDS on fairness in U-Space drone traffic."/>
+  </picture>
 </p>
 
 <p align="center">
   Final-year Data Systems Engineering student at UPM and research assistant at GPDS.<br/>
-  I build data pipelines, Python backends and ML tooling.
+  I build data pipelines, Python backends and ML tooling, and I research how drone traffic is scheduled in U-Space.
 </p>
 
 <p align="center">
@@ -19,6 +16,10 @@
 </p>
 
 ---
+
+#### 🛰️ Now
+
+- **Research at GPDS (UPM):** a flight-queue simulator for the U-Space / UTM ecosystem, and inverse rule inference to measure how fair drone queueing really is.
 
 #### 📌 Projects
 
@@ -37,6 +38,12 @@
 | **BeTech 2025** · Roche challenge | 🥇 Winner | NLP model predicting diabetes risk from clinical notes |
 | **HackSpain 2026** · Maisa challenge | Participant | [Albertitos](https://github.com/javiersaguar/HS-Maisa) |
 
+#### 🎖️ Recognition
+
+- **Comunidad de Madrid Excellence Scholarship** for university students (2026)
+- **7 Matrículas de Honor** (top-grade distinctions) across three years of the degree
+- **FIRST LEGO League**, two-time regional champion (Toledo)
+
 #### 🛠️ Stack
 
 | | |
@@ -46,5 +53,3 @@
 | **Cloud & infra** | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) |
 | **Backend & testing** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) |
 | **ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) |
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,50:1F4E8C,100:0D1117&height=100&section=footer" width="100%" alt=""/>
