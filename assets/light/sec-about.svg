@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="76" viewBox="0 0 1200 76" role="img" aria-label="About"><title>About</title>
+<text x="2" y="48" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" letter-spacing="2" fill="#0F766E">WP-01</text>
+<text x="104" y="49" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Inter, Arial, sans-serif" font-size="30" font-weight="650" fill="#0B1626" letter-spacing="-0.5">About</text>
+<line x1="264" y1="42" x2="1160" y2="42" stroke="#D5DFEB" stroke-width="1.5" stroke-dasharray="2 6" stroke-linecap="round"/>
+<rect x="1170" y="37" width="10" height="10" fill="none" stroke="#0F766E" stroke-width="1.5" transform="rotate(45 1175 42)"/>
+<g opacity="0.9"><g transform="scale(0.9)"><line x1="-6" y1="-6" x2="6" y2="6" stroke="#B45309" stroke-width="1.6"/><line x1="-6" y1="6" x2="6" y2="-6" stroke="#B45309" stroke-width="1.6"/><circle cx="-6" cy="-6" r="3.4" fill="none" stroke="#B45309" stroke-width="1.4"/><circle cx="6" cy="-6" r="3.4" fill="none" stroke="#B45309" stroke-width="1.4"/><circle cx="-6" cy="6" r="3.4" fill="none" stroke="#B45309" stroke-width="1.4"/><circle cx="6" cy="6" r="3.4" fill="none" stroke="#B45309" stroke-width="1.4"/><rect x="-2.6" y="-2.6" width="5.2" height="5.2" rx="1.2" fill="#B45309"/></g>
+  <animateMotion dur="7s" repeatCount="indefinite" path="M 264 42 L 1154 42" keyTimes="0;1" keyPoints="0;1" calcMode="spline" keySplines="0.45 0 0.55 1"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.1;0.85;1" dur="7s" repeatCount="indefinite"/>
+</g></svg>
